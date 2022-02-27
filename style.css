@@ -13,8 +13,8 @@ body {
 }
 
 .pac-man {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   background-color: yellow;
   border-radius: 50%;
   box-shadow: 2px;
